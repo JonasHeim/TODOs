@@ -7,6 +7,7 @@ Overview and status of my projects
 
 - ## STM32
   - ### TFT w/ touchscreen interfaced by STM32F103
+    * [GitHub](https://github.com/JonasHeim/STM32F103_Touch_LCD) project
 
 - ## ESP8266
   - ### PingLED
@@ -17,6 +18,8 @@ Overview and status of my projects
   - ### 8-Bit CPU
     * Rebuild the [8-Bit CPU](https://eater.net/) from Ben Eater
     * YouTube [Playlist](https://www.youtube.com/playlist?list=PLowKtXNTBypGqImE405J2565dvjafglHU)
-    
+---
+# Done
+
 ---
 Link to [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#emphasis)
