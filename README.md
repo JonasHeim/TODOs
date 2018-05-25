@@ -20,6 +20,7 @@ Overview and status of my projects
     * YouTube [Playlist](https://www.youtube.com/playlist?list=PLowKtXNTBypGqImE405J2565dvjafglHU)
 ---
 # Done
+/
 
 ---
 Link to [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#emphasis)
