@@ -8,6 +8,7 @@ Overview and status of my projects
 - ## STM32
   - ### TFT w/ touchscreen interfaced by STM32F103
     * [GitHub](https://github.com/JonasHeim/STM32F103_Touch_LCD) project
+    * Create a Paint program using the touchscreen and LCD
 
 - ## ESP8266
   - ### PingLED
