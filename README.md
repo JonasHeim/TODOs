@@ -2,7 +2,7 @@
 Overview and status of my projects
 
 - ## Linux
-  - [ ] Arch Linux Spotify window managing
+  - [ ] ### Arch Linux Spotify window managing
     * Integrate [spotifywm](https://github.com/dasJ/spotifywm) to my Arch Linux desktop
 
 - ## Windows
