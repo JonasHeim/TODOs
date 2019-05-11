@@ -10,7 +10,7 @@ Overview and status of my projects
     * [GitHub](https://github.com/JonasHeim/QwerteeParser)
 
 - ## Windows
-
+     /
 - ## STM32
   - ### TFT w/ touchscreen interfaced by STM32F103
     * Status: Touchscreen interface not yet working.
@@ -20,7 +20,9 @@ Overview and status of my projects
     * Status: Just an idead
   - ### Serial (RS232) monitor device with screen and virtual COM port for PC access.
     * Status: Just an idea.
-    
+  - ### Embedded RUST - Program an STM32F303 (Eval.Board)
+    * Status: Just an idea.
+    * [The Embedded Rust Book](https://rust-embedded.github.io/book/)
 
 - ## ESP8266
   - ### PingLED
