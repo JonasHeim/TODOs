@@ -2,8 +2,11 @@
 Overview and status of my projects
 
 - ## Linux
-  - ### Arch Linux Spotify window managing
-    * Integrate [spotifywm](https://github.com/dasJ/spotifywm) to my Arch Linux desktop 
+  - [ ] Arch Linux Spotify window managing
+    * Integrate [spotifywm](https://github.com/dasJ/spotifywm) to my Arch Linux desktop
+
+- ## Windows
+  - [x] Civizilation 5 Savegame Editor (Switch Gamemode: SinglePlayer <-> Multiplayer)
 
 - ## STM32
   - ### TFT w/ touchscreen interfaced by STM32F103
